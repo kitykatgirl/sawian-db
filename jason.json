@@ -1,0 +1,154 @@
+{
+  "Sawian":[
+    {
+      "name":"Experiment",
+      "description":"The one we all come from?\nProbably not natural.",
+      "aim":100,
+      "move":100,
+      "reload":100,
+      "health":100,
+      "gameplay":"The base for almost all other species",
+      "weapon":"Pistol"
+    },
+    {
+      "name":"Orange",
+      "description":"Slow and stupid brute.\nDangerously tough. Resilient.",
+      "aim":75,
+      "move":86,
+      "reload":75,
+      "health":130,
+      "gameplay":"Tanky, but sluggish",
+      "weapon":"Sawed Off"
+    },
+    {
+      "name":"Milky",
+      "description":"Good marksmen.\nUsually have the best guns.",
+      "aim":135,
+      "move":114,
+      "reload":150,
+      "health":80,
+      "gameplay":"Dexterous, but frail",
+      "weapon":"Revolver"
+    },
+    {
+      "name":"Leapy",
+      "description":"Glass cannon.\nGood to get a job done quick.",
+      "aim":110,
+      "move":136,
+      "reload":110,
+      "health":70,
+      "gameplay":"Very agile, but very frail\nCan infinitely chain roll pounces",
+      "weapon":"Derringer"
+    },
+    {
+      "name":"Chompy",
+      "description":"Beware of them in water.\nFound around water as well.",
+      "aim":115,
+      "move":93,
+      "reload":90,
+      "health":110,
+      "gameplay":"Swims very fast\nMassive stat boosts in water",
+      "weapon":"Machine pistol"
+    },
+    {
+      "name":"Roza",
+      "description":"Bullets cause leg injury.\nSupportive unit. Fodder.",
+      "aim":100,
+      "move":107,
+      "reload":110,
+      "health":100,
+      "gameplay":"Bullets slow down enemies",
+      "weapon":"Light pistol"
+    },
+    {
+      "name":"Voyager",
+      "description":"Arrogant assholes.\nHelpful tech, though.",
+      "aim":100,
+      "move":114,
+      "reload":100,
+      "health":84,
+      "gameplay":"Quick but frail.\nMoving slowly allows you to camouflage",
+      "weapon":"Governor"
+    },
+    {
+      "name":"Baron",
+      "description":"Use heavy weapons, and gain distance.\nHit them first, and hit them hard.",
+      "aim":160,
+      "move":86,
+      "reload":80,
+      "health":600,
+      "gameplay":"Extremely massive health pool\nExtremely strong kicks\nNo health regeneration",
+      "weapon":"Sawed Off"
+    },
+    {
+      "name":"Chik",
+      "description":"Watch the skies.\nPredict aerial ambushes.",
+      "aim":100,
+      "move":114,
+      "reload":140,
+      "health":90,
+      "gameplay":"Can jump mid-air multiple times\nMuch higher aimspeed mid-air\nSlow fall",
+      "weapon":"Mini SMG"
+    },
+    {
+      "name":"Crystal",
+      "description":"Watch for their tongue.\nDangerous at close range.",
+      "aim":100,
+      "move":100,
+      "reload":750,
+      "health":100,
+      "gameplay":"Slow reloads\nPress W to tongue and grapple",
+      "weapon":"Sawed Off"
+    },
+    {
+      "name":"Velvet",
+      "description":"If spat on, hold your ground.\nBeware their endurance.",
+      "aim":90,
+      "move":93,
+      "reload":90,
+      "health":120,
+      "gameplay":"Tanky, with bad weapon handling\nHold CTRL/LMB to spit out cobweb",
+      "weapon":"SMG"
+    },
+    {
+      "name":"Icke",
+      "description":"They will rush you.\nSet an ambush.",
+      "aim":90,
+      "move":114,
+      "reload":90,
+      "health":100,
+      "gameplay":"Bad weapon handling, very high jumps\nVERY strong kicks\nHigher move, reload and aim speed the lower your HP is",
+      "weapon":"Rapid-fire revolver"
+    },
+    {
+      "name":"Shelly",
+      "description":"No easy way around them.\nExcessive force required.",
+      "aim":70,
+      "move":79,
+      "reload":70,
+      "health":150,
+      "gameplay":"Fire immune\n80% explosion resistance\n25% fall damage resistance\nVerytanky\nVery Sluggish\nLowered health regeneration",
+      "weapon":"Machine pistol"
+    },
+    {
+      "name":"Dune",
+      "description":"High level skill ; High level threat.\nDo not treat lightly.",
+      "aim":135,
+      "move":111,
+      "reload":150,
+      "health":90,
+      "gameplay":"Crouch over corpses to eat them and heal\nBreathes underwater\nLowered health regeneration",
+      "weapon":"Rapid-fire revolver"
+    },
+    {
+      "name":"Albino",
+      "description":"The one we all come from?\nProbably not natural.",
+      "aim":85,
+      "move":93,
+      "reload":85,
+      "health":80,
+      "gameplay":"Weak, frail and infit for combat\nBasically hard mode",
+      "weapon":"Pistol"
+    }
+  ]
+}
